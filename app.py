@@ -1,9 +1,8 @@
 # from database.db_connection import connect_collection
 from flask import Flask, render_template, request, redirect, url_for, flash, session
+from logging import FileHandler, WARNING
 
-
-app = Flask(__name__)
-
+app = Flask(__name__, template_folder="template")
 # collection = connect_collection("ingredients")
 
 
