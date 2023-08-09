@@ -1,0 +1,24 @@
+{
+    "breakfast": [
+        {
+            "name": "French Fries",
+            "ingredient1": "potato",
+            "ingredient2": "1/3 cup of sugar",
+            "ingredient3": "2 large russet potato",
+            "ingredient4": "6 cups vegetable oil for frying",
+            "ingredient5": "salt",
+            "totalTime": "10 mins",
+            "serves": 4,
+            "recipe": "Stir together warm water and sugar. Soak potatoes in water mixture for 15 min. Remove potatoes from water and dry thorougly on paper towels. Heat oil in a deep-fryer to 190 degree C. Cook potatoes in hot oil until golden, 5-6 min. Drain on paper towels and season with salt."
+        },
+        {
+            "name": "Toast",
+            "ingredient1": "Bread",
+            "ingredient2": "Cheese",
+            "ingredient3": "Sausage",
+            "totalTime": "5 mins",
+            "serves": 1,
+            "recipe": "Slice bread and cheese. Turn on toaster. Put the cheese and sausage in the bread. Then, place the toast in the machine. After melting cheese, take the toast from the toaster."
+        }
+    ]
+}
